@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Known Languages
-  Java
-  Some C# mainly through Unity 
+Known Languages%n
+  Java%n
+  Some C# mainly through Unity%n
 <!--
 **pgran529/pgran529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
