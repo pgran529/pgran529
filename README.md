@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Known Languages\
+**Known Languages**\
   Java\
   Some C# mainly through Unity
 <!--
